@@ -1,0 +1,8 @@
+First Name: Sena
+Last Name: Yüzer
+Gender: Female
+University Name: Bogazici University
+Department: Management
+GPA: 3.2
+Current Job Position: Marketing
+Current Company: P&G

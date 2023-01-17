@@ -1,0 +1,8 @@
+First Name: İrem
+Last Name: Yaldır
+Gender: Female
+University Name: Bogazici University
+Department: CET
+GPA: 2.81
+Current Job Position: Backend Developer
+Current Company: Google

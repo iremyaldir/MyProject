@@ -1,0 +1,8 @@
+First Name: Furkan
+Last Name: Bayazit
+Gender: Male
+University Name: B
+Department: CET
+GPA: 3
+Current Job Position: MARKETING
+Current Company: vodafone
